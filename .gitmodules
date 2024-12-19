@@ -1,3 +1,6 @@
 [submodule "GameEngine"]
 	path = GameEngine
 	url = git@github.com:sunisok1/GameEngine.git
+[submodule "Unity.Properties.SourceGenerator"]
+	path = Unity.Properties.SourceGenerator
+	url = https://github.com/sunisok1/Unity.Properties.SourceGenerator.git
